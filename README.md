@@ -3,6 +3,10 @@
 A comprehensive performance monitoring solution for **ASP.NET Core MVC** applications built with **Prometheus** and **Grafana**. This project provides real-time insights into application performance, system metrics, and infrastructure health specifically designed for .NET applications.
 
 ## 📸 Preview 
+![image alt](https://github.com/PranavBhimani25/DotWatch/blob/55d12d286f5edb3feff4bfac7f080dde2eb314f3/DotWatch/wwwroot/Images/Screenshot%202025-05-31%20174546.png)
+![image alt](https://github.com/PranavBhimani25/DotWatch/blob/55d12d286f5edb3feff4bfac7f080dde2eb314f3/DotWatch/wwwroot/Images/Screenshot2025_1.png)
+![image alt](https://github.com/PranavBhimani25/DotWatch/blob/55d12d286f5edb3feff4bfac7f080dde2eb314f3/DotWatch/wwwroot/Images/Screenshot%202025-05-31%20174526.png)
+
 
 ## 🚀 Features
 
