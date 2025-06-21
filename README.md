@@ -8,7 +8,7 @@ NAME: Pranav Bhimani
 INTERN ID: CT04DM1485
 ---
 
-DONAIN: .Net 
+DOMAIN: .Net 
 ---
 
 DURATION: 4 WEEEKS
