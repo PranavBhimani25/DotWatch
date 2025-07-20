@@ -1,22 +1,4 @@
 # DotWatch - ASP.NET Core Performance Monitoring Dashboard
----
-COMPANY: CODTECH IT SOLUTIONS
----
-NAME: Pranav Bhimani
----
-
-INTERN ID: CT04DM1485
----
-
-DOMAIN: .Net 
----
-
-DURATION: 4 WEEEKS
----
-
-MENTOR: VAISHALI
----
-# DotWatch - ASP.NET Core Performance Monitoring Dashboard
 
 A comprehensive performance monitoring solution for **ASP.NET Core MVC** applications built with **Prometheus** and **Grafana**. This project provides real-time insights into application performance, system metrics, and infrastructure health specifically designed for .NET applications.
 
